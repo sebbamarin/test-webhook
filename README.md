@@ -493,8 +493,6 @@ And the updated content will be reflected on our website.
 - We check in the browser by updating or loading new content in our CMS, then we will go to the Web to check that the content is updated.
 - If everything has gone well, we have finished our configuration. With this, we will have our CMS and Web online, and the website will update automatically after each content update. Congratulations 👏
 
-<kbd> <br> [GitHub CMS](https://github.com/sebbamarin/test-cms) <br> </kbd>
-<kbd> <br> [GitHub BLOG](https://github.com/sebbamarin/test-blog) <br> </kbd>
 <kbd> <br> [GitHub WEBHOOK](https://github.com/sebbamarin/test-webhook) <br> </kbd>
 
 [CMS]: https://kinsta.com/knowledgebase/content-management-system/
