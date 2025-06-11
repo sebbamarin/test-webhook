@@ -463,7 +463,7 @@ And the updated content will be reflected on our website.
     # server-webhook.conf
     server {
         listen 80;
-        server_name webhook.my-personal-blog.com;
+        server_name hook.my-personal-blog.com;
 
         location / {
             proxy_pass http://localhost:4000;
